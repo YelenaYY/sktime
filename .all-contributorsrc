@@ -2725,6 +2725,16 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "YelenaYY",
+      "name": "Yelena Yu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83674329?v=4",
+      "profile": "https://github.com/YelenaYY",
+      "contributions": [
+        "code",
+        "bug"
+      ]
     }
   ]
 }
